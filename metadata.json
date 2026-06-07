@@ -1,0 +1,6 @@
+{
+  "name": "연화가 (煙火家)",
+  "description": "진짜 고기는 연기로 말한다. 새롭게 개업한 프리미엄 고기구이 전문점 연화가입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
